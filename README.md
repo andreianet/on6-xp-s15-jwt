@@ -17,3 +17,15 @@ npm start
 ```
 localhost:3000
 ```
+
+### Passaport ###
+ ```
+ npm install passport
+
+ npm install passport-local
+
+ npm install passport-http-bearer
+
+
+
+ ```

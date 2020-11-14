@@ -14,6 +14,16 @@ const AccountSchema = new Schema({
     dataNascimento: {
         type: Date,
         required: true,
+    },
+
+    email:{
+       type: String,
+       required: true
+    },
+
+    senha:{
+        type: String,
+        required: true
     }
 });
 
