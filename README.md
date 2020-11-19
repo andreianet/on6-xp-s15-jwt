@@ -26,6 +26,4 @@ localhost:3000
 
  npm install passport-http-bearer
 
-
-
  ```
