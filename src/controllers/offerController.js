@@ -1,5 +1,6 @@
 const offersCollection = require('../models/offerSchema');
 
+
 module.exports = {
 
     add: (request, response) => {
@@ -53,3 +54,4 @@ module.exports = {
     }
 
 };
+
